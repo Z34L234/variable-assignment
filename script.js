@@ -1,6 +1,14 @@
 // Add your code here
 
-
+let firstname = 'Ernest';
+let secondname = 'Onyekwena';
+let fullname = firstname +' '+ secondname;
+let introduction = 'Hello, my name is';
+let myEyesColor = 'black';
+let myHairColor = 'black';
+let myNumberOfSiblings = 'one';
+let myFavouriteFood = 'spaghetti';
+let myFavouriteColor = 'gold';
 
 // Don't edit or touch the code below here!
 // Don't edit or touch the code below here!
@@ -36,12 +44,3 @@ section.appendChild(paragraph3);
 section.appendChild(paragraph4);
 section.appendChild(paragraph5);
 
-let firstname = 'Ernest';
-let secondname = 'Onyekwena';
-let fullname = firstname +' '+ secondname;
-let introduction = 'Hello, my name is';
-let myEyesColor = 'black';
-let myHairColor = 'black';
-let myNumberOfSiblings = 'one';
-let myFavouriteFood = 'spaghetti';
-let myFavouriteColor = 'gold';

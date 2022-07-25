@@ -1,0 +1,17 @@
+#introduction {
+  color: aquamarine;
+  background-color: blueviolet;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
+
+#my-favourite-color {
+  color: white;
+  background-color: rgb(2, 12, 8);
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0.5em;
+}
